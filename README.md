@@ -12,17 +12,14 @@ It includes features like booking, cancellation, and PDF receipt generation, alo
 
 ## Installation
 ```bash
-pip install -r requirements.txt
+pip install pandas
+pip install numpy
+pip install reportlab
 
-#python airline_project.py
-
-Output Location
-
-Fare receipts are saved in:
-Documents/Flight_Receipts/
 
 Technologies Used
 Python 3.8+
 Pandas
 NumPy
 ReportLab
+
