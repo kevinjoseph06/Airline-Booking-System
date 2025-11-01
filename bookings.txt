@@ -1,0 +1,13 @@
+[
+    {
+        "booking_id": "SKY8026",
+        "name": "KEVIN",
+        "flight_no": "AI101",
+        "from": "Delhi",
+        "to": "Mumbai",
+        "price": 5500,
+        "date": "2025-11-05 08:30",
+        "seat": "14F",
+        "booking_time": "2025-11-01 09:11:09"
+    }
+]
