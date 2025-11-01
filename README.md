@@ -15,6 +15,3 @@ It includes features like booking, cancellation, and PDF receipt generation, alo
 pip install pandas
 pip install numpy
 pip install reportlab
-
-
-
