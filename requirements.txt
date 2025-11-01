@@ -1,3 +1,4 @@
-pandas
-numpy
-reportlab
+Python 3.8+
+Pandas
+NumPy
+ReportLab
