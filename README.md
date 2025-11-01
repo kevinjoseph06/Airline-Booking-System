@@ -17,9 +17,4 @@ pip install numpy
 pip install reportlab
 
 
-Technologies Used
-Python 3.8+
-Pandas
-NumPy
-ReportLab
 
