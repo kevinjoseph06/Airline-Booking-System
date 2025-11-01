@@ -13,7 +13,8 @@ It includes features like booking, cancellation, and PDF receipt generation, alo
 ## Installation
 ```bash
 pip install -r requirements.txt
-python airline_project.py
+
+#python airline_project.py
 
 Output Location
 
